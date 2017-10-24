@@ -1,0 +1,43 @@
+using System; 
+
+
+
+namespace dilek{
+
+
+
+   class BirinciOrnek{
+
+
+
+   		static void Main(String[] args)
+
+   		{
+
+   			string ad, soyad ; 
+
+   			ad = "Dilek"; 
+
+   			soyad = "GÜCEYÜZ";
+
+
+
+   			Console.WriteLine(ad + " " + soyad); 
+
+
+
+   			Console.ReadKey(); 
+
+
+
+   		}
+
+
+
+
+
+   }
+
+
+
+}
